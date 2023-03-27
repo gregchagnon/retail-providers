@@ -1,5 +1,8 @@
 package com.amazon.transact.providers.cart.actions;
 
+import com.amazon.transact.providers.cart.structures.CartItem;
+import com.amazon.transact.providers.cart.structures.CartState;
+
 import java.util.List;
 
 public class GetCartResponse {

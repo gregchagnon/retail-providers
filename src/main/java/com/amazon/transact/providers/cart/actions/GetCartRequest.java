@@ -8,6 +8,6 @@ public class GetCartRequest {
     private String cartId;
 
     public GetCartRequest(String cartId) {
-        this.cartId = cartId
+        this.cartId = cartId;
     }
 }
